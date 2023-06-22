@@ -42,7 +42,7 @@ let models = [
     url: "assets/loro_jose/scene.gltf",
     scale: "0.01 0.01 0.01",
     rotation: "0 180 0",
-    info: "Loro Jose, Lv. 10, HP 10/10",
+    info: "Louro Jose, Lv. 10, HP 10/10",
     about:
     "Louro José foi um boneco de um papagaio que misturava artifícios de fantoches com a tecnologia de controle remoto."
   },
